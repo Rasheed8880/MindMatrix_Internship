@@ -1,0 +1,8 @@
+*.jar
+.gradle/
+build/
+.kotlin/
+.idea/
+.vscode/
+local.properties
+*.iml
