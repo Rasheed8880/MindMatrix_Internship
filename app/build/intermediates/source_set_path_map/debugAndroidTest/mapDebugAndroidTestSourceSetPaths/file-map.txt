@@ -1,0 +1,38 @@
+com.mindmatrix.jalsanchaytracker.test.app-ui-unit-release-0 C:\Users\rashe\.gradle\caches\9.0.0\transforms\0594f2afe912d6fbeb6ec9a10bc45df2\transformed\ui-unit-release\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-release-1 C:\Users\rashe\.gradle\caches\9.0.0\transforms\0aedd07ef82f360eaa14c6c835e09405\transformed\ui-release\res
+com.mindmatrix.jalsanchaytracker.test.app-activity-compose-1.9.3-2 C:\Users\rashe\.gradle\caches\9.0.0\transforms\176ce7fff8b108a615f4ce1c7e285cc5\transformed\activity-compose-1.9.3\res
+com.mindmatrix.jalsanchaytracker.test.app-tracing-1.2.0-3 C:\Users\rashe\.gradle\caches\9.0.0\transforms\1e08af0f6ece8a56ce121b681c4c0a48\transformed\tracing-1.2.0\res
+com.mindmatrix.jalsanchaytracker.test.app-customview-poolingcontainer-1.0.0-4 C:\Users\rashe\.gradle\caches\9.0.0\transforms\2b691c68d9da9f6a679373adf20c3593\transformed\customview-poolingcontainer-1.0.0\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-text-release-5 C:\Users\rashe\.gradle\caches\9.0.0\transforms\333d571622fa0b6f76ae35414d3f5388\transformed\ui-text-release\res
+com.mindmatrix.jalsanchaytracker.test.app-runtime-release-6 C:\Users\rashe\.gradle\caches\9.0.0\transforms\3aee1bd4f68bdb2b65aa4efef678625f\transformed\runtime-release\res
+com.mindmatrix.jalsanchaytracker.test.app-core-ktx-1.15.0-7 C:\Users\rashe\.gradle\caches\9.0.0\transforms\42530d6d4046f321a7047dd9d4630af7\transformed\core-ktx-1.15.0\res
+com.mindmatrix.jalsanchaytracker.test.app-savedstate-ktx-1.2.1-8 C:\Users\rashe\.gradle\caches\9.0.0\transforms\4c807c73767cc6e6a503244b118f12c2\transformed\savedstate-ktx-1.2.1\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-process-2.8.7-9 C:\Users\rashe\.gradle\caches\9.0.0\transforms\51ef6543c9e0426ef1b8514702478403\transformed\lifecycle-process-2.8.7\res
+com.mindmatrix.jalsanchaytracker.test.app-savedstate-1.2.1-10 C:\Users\rashe\.gradle\caches\9.0.0\transforms\52ec5c6c749feb5f8c071489ecdb1ed6\transformed\savedstate-1.2.1\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-runtime-ktx-release-11 C:\Users\rashe\.gradle\caches\9.0.0\transforms\586b3e334a26bed134f69c59799a6ae6\transformed\lifecycle-runtime-ktx-release\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-test-junit4-release-12 C:\Users\rashe\.gradle\caches\9.0.0\transforms\5cddd372008875839d4c736d45ea454b\transformed\ui-test-junit4-release\res
+com.mindmatrix.jalsanchaytracker.test.app-emoji2-1.3.0-13 C:\Users\rashe\.gradle\caches\9.0.0\transforms\60b32790f417e7cfc54d6b0724c9f716\transformed\emoji2-1.3.0\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-viewmodel-release-14 C:\Users\rashe\.gradle\caches\9.0.0\transforms\6a9e21455f9ea851d1b9ccd97b574475\transformed\lifecycle-viewmodel-release\res
+com.mindmatrix.jalsanchaytracker.test.app-core-runtime-2.2.0-15 C:\Users\rashe\.gradle\caches\9.0.0\transforms\70ee2f3db8b5225f939d39bb63c7a645\transformed\core-runtime-2.2.0\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-viewmodel-ktx-2.8.7-16 C:\Users\rashe\.gradle\caches\9.0.0\transforms\793220bcafdc977f4a04df9c4b5a5531\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-viewmodel-savedstate-2.8.7-17 C:\Users\rashe\.gradle\caches\9.0.0\transforms\795fa67a757b3c9dd268dca081f88fda\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.mindmatrix.jalsanchaytracker.test.app-activity-ktx-1.9.3-18 C:\Users\rashe\.gradle\caches\9.0.0\transforms\7adb97571e775596d102e4f978a2e4db\transformed\activity-ktx-1.9.3\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-livedata-core-2.8.7-19 C:\Users\rashe\.gradle\caches\9.0.0\transforms\7cdf9cfdebfea4134eaa9cda61d0882e\transformed\lifecycle-livedata-core-2.8.7\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-runtime-release-20 C:\Users\rashe\.gradle\caches\9.0.0\transforms\82761aa08368565887bceb5d80be50e6\transformed\lifecycle-runtime-release\res
+com.mindmatrix.jalsanchaytracker.test.app-startup-runtime-1.1.1-21 C:\Users\rashe\.gradle\caches\9.0.0\transforms\93f048fa69c8aafdea78a5480bb54aa8\transformed\startup-runtime-1.1.1\res
+com.mindmatrix.jalsanchaytracker.test.app-core-1.6.1-22 C:\Users\rashe\.gradle\caches\9.0.0\transforms\9557f0483c5ac70bbfe7cce44505d798\transformed\core-1.6.1\res
+com.mindmatrix.jalsanchaytracker.test.app-graphics-path-1.0.1-23 C:\Users\rashe\.gradle\caches\9.0.0\transforms\ab295933e59cda6913c6cbdc719ca08d\transformed\graphics-path-1.0.1\res
+com.mindmatrix.jalsanchaytracker.test.app-runtime-saveable-release-24 C:\Users\rashe\.gradle\caches\9.0.0\transforms\ad6920ab9e2d55b3b79d1091dfe3a124\transformed\runtime-saveable-release\res
+com.mindmatrix.jalsanchaytracker.test.app-lifecycle-runtime-compose-release-25 C:\Users\rashe\.gradle\caches\9.0.0\transforms\c530aa9d0763d0f6df7449e157e9eca3\transformed\lifecycle-runtime-compose-release\res
+com.mindmatrix.jalsanchaytracker.test.app-activity-1.9.3-26 C:\Users\rashe\.gradle\caches\9.0.0\transforms\c7594590f616f36cacadafb7e55f0c01\transformed\activity-1.9.3\res
+com.mindmatrix.jalsanchaytracker.test.app-core-1.15.0-27 C:\Users\rashe\.gradle\caches\9.0.0\transforms\c9e00220b89d15b041c5c2a3a8239ff9\transformed\core-1.15.0\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-util-release-28 C:\Users\rashe\.gradle\caches\9.0.0\transforms\cd1d0cf2a9c0c70213af512b0271e198\transformed\ui-util-release\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-geometry-release-29 C:\Users\rashe\.gradle\caches\9.0.0\transforms\e02f44ad61a0a05bcffdeeb7dadb94fd\transformed\ui-geometry-release\res
+com.mindmatrix.jalsanchaytracker.test.app-annotation-experimental-1.4.1-30 C:\Users\rashe\.gradle\caches\9.0.0\transforms\eac16a15b9f43b0c65d2119737b5b9b8\transformed\annotation-experimental-1.4.1\res
+com.mindmatrix.jalsanchaytracker.test.app-profileinstaller-1.3.1-31 C:\Users\rashe\.gradle\caches\9.0.0\transforms\f025f4cf8c37284f012f8404c82b13b7\transformed\profileinstaller-1.3.1\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-test-release-32 C:\Users\rashe\.gradle\caches\9.0.0\transforms\fc8ea37dc59ed80e7e2b8acae111b4de\transformed\ui-test-release\res
+com.mindmatrix.jalsanchaytracker.test.app-ui-graphics-release-33 C:\Users\rashe\.gradle\caches\9.0.0\transforms\fed88378c7a3ef674aa21868098c9489\transformed\ui-graphics-release\res
+com.mindmatrix.jalsanchaytracker.test.app-androidTest-34 C:\Users\rashe\Desktop\Jal Sanchay 04-05-2026+\app\build\generated\res\resValues\androidTest\debug
+com.mindmatrix.jalsanchaytracker.test.app-mergeDebugAndroidTestResources-35 C:\Users\rashe\Desktop\Jal Sanchay 04-05-2026+\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mindmatrix.jalsanchaytracker.test.app-mergeDebugAndroidTestResources-36 C:\Users\rashe\Desktop\Jal Sanchay 04-05-2026+\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mindmatrix.jalsanchaytracker.test.app-debugAndroidTest-37 C:\Users\rashe\Desktop\Jal Sanchay 04-05-2026+\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

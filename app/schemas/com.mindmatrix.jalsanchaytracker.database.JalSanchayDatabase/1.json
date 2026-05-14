@@ -1,0 +1,70 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "68ab6d5a6844f8b2290583ae7ff11847",
+    "entities": [
+      {
+        "tableName": "harvest_entries",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `roofAreaSqm` REAL NOT NULL, `rainfallMm` REAL NOT NULL, `runoffCoefficient` REAL NOT NULL, `tankCapacityLiters` REAL NOT NULL, `collectedLiters` REAL NOT NULL, `createdAt` INTEGER NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "roofAreaSqm",
+            "columnName": "roofAreaSqm",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "rainfallMm",
+            "columnName": "rainfallMm",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "runoffCoefficient",
+            "columnName": "runoffCoefficient",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "tankCapacityLiters",
+            "columnName": "tankCapacityLiters",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "collectedLiters",
+            "columnName": "collectedLiters",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '68ab6d5a6844f8b2290583ae7ff11847')"
+    ]
+  }
+}

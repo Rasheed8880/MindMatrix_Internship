@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">170727521791-fmlp582h5qrog81jahrgvi88c2391bcs.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">170727521791</string>
+    <string name="google_api_key" translatable="false">AIzaSyBx0pVUuDhBUssyd2kppf9GxqnoYlYoQnY</string>
+    <string name="google_app_id" translatable="false">1:170727521791:android:2ba839c06271aa8fdc3bca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBx0pVUuDhBUssyd2kppf9GxqnoYlYoQnY</string>
+    <string name="google_storage_bucket" translatable="false">jal-sanchay-tracker-2b86f.firebasestorage.app</string>
+    <string name="project_id" translatable="false">jal-sanchay-tracker-2b86f</string>
+</resources>
